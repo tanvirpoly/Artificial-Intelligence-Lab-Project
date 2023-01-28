@@ -13,32 +13,11 @@
 ---
 
 
-<h1 id="test-title">Class: 01 & 02</h1>
-
-
-<object data="loremipsum.pdf#page=2" type="application/pdf" width="700px" height="700px">
-    <embed src="loremipsum.pdf#page=2">
-        <p>Click here for view <a href="Class_01.pdf"> PDF </a>.</p>
-    </embed>
-</object>
-
-
-<h1 id="test-title">Class: 03 & 04</h1>
-
+<h1 id="test-title">Project Proposal</h1>
 
 <object data="loremipsum.pdf#page=2" type="application/pdf" width="700px" height="700px">
     <embed src="loremipsum.pdf#page=2">
-        <p>Click here for view <a href="Class_02.pdf"> PDF </a>.</p>
-    </embed>
-</object>
-
----
-
-<h1 id="test-title">Project Prototype</h1>
-
-<object data="loremipsum.pdf#page=2" type="application/pdf" width="700px" height="700px">
-    <embed src="loremipsum.pdf#page=2">
-        <p>Click here for view <a href="project_prototype.pptx"> Prototype </a>.</p>
+        <p>Click here for view <a href="Project_Proposal.pdf"> PDF </a>.</p>
     </embed>
 </object>
 
@@ -48,7 +27,7 @@
 
 <object data="loremipsum.pdf#page=2" type="application/pdf" width="700px" height="700px">
     <embed src="loremipsum.pdf#page=2">
-        <p>Click here for view <a href="Project_Presentation.pptx"> Presentation </a>.</p>
+        <p>Click here for view <a href="final_presentation.pptx"> Presentation </a>.</p>
     </embed>
 </object>
 
